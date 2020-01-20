@@ -8,7 +8,7 @@ echo -e "\e[35m 0 - Update help.sh (auto)                   1 - spymer\e[0m"
 echo -e "\e[32m 2 - DDos IP                                 3 - cmatrix\e[0m"
 echo
 echo
-echo -e "\e[34m                                             by ZHELUK\e[0m"
+echo -e "\e[34m V                                           by ZHELUK#\e[0m"
 read help
 if [[ $help == "1" ]] || [[ $help == "2" ]] || [[ $help == "3" ]] || [[ $help == "0" ]] || [[ $help -ge 4 ]]; then
 case $help in
