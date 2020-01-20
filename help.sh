@@ -1,4 +1,4 @@
-#!/bin/bash
+
 clear 
 echo -e "\e[32m                                Hello, its menu for help\e[0m"
 echo -e "\e[32m                     You can  don't write command(testing)[0m"
